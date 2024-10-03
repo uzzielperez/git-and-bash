@@ -1,4 +1,6 @@
 Lecture Outline: Introduction to Git and Bash
+0. Evaluation
+Run Quiz - To-do
 I. Introduction
 
     A. Importance of version control and command-line tools
