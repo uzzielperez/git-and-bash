@@ -89,6 +89,7 @@ IX. Hands-on Practice (Optional)
 This outline provides a structured approach to teaching Git and Bash, balancing theoretical knowledge with practical applications. Adjust the timing and depth of each section based on the audience's background and the overall lecture length.
 
 **Resources**
+* [LeetCode for shell](https://www.reddit.com/r/cscareerquestions/comments/5pe1no/is_having_leetcode_solutions_on_your_github_a_bad/)
 * [Analysis Essentials](https://hsf-training.github.io/analysis-essentials/)
 * [Git Essentials](https://hsf-training.github.io/analysis-essentials/git/README.html)
 * [Bash and Git by Jake Lane, 2024](https://indico.cern.ch/event/1337166/contributions/5770724/attachments/2797830/4881115/Bash%20and%20Git%20SK2024%20(2).pdf)
