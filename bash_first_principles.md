@@ -1,3 +1,7 @@
+Reference:
+
+* [Colab + Bash](https://www.youtube.com/watch?v=E54volo2B2s)
+
 1. Basics of the Command Line
 
     Understanding Shells: Bash (Bourne Again SHell) is a command-line interface that interprets commands. It’s one of the most widely used shells in UNIX-based systems, including macOS and Linux.
