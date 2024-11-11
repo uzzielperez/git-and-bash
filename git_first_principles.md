@@ -1,3 +1,6 @@
+Reference: 
+* [Git + Colab](https://www.youtube.com/watch?app=desktop&v=eLhy3_d2UPo)
+
 1. Understanding Version Control and Git Basics
 
     What is Version Control?: Version control systems (VCS) track changes to files over time, making it easy to revert to previous versions or understand the evolution of a project. Git is a distributed VCS, meaning every user has a full copy of the repository, making it fast and resilient.
